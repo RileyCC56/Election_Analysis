@@ -2,6 +2,9 @@
 
 The following election audit analysis has been manufactured to provide the voter turnout for each county, the percentage of votes from each county including the total vote count, as well as the county with the highest turnout for the election commission. As the following groundwork was completed with Seth and Tom we will now use further repetition statements, condition statements and logical operators to print the following additional desired results.
 
+## Tools:
+Python
+
  ## Results:
  - The following candidate of **Diana DeGette** has won the election with a **total vote count of 272,892 which tallies as 73.8%** of the total votes within the election.
  - There was a total of **369,711** votes casted in this congressional election
